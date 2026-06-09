@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danish Danial | Portfolio Blog</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #f4f7f6;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header {
+            background-color: #1a252f;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav {
+            width: 85%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav .logo {
+            color: #fff;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        nav ul li {
+            margin-left: 20px;
+        }
+        nav ul li a {
+            color: #bdc3c7;
+            text-decoration: none;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+        nav ul li a:hover, nav ul li a.active {
+            color: #3498db;
+            font-weight: bold;
+        }
+        main {
+            flex: 1;
+        }
+        .hero-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 80vh;
+            background: linear-gradient(135deg, #1abc9c, #3498db);
+            color: white;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 45px;
+            margin-bottom: 20px;
+        }
+        .hero p {
+            font-size: 18px;
+            max-width: 600px;
+            margin: 0 auto 30px auto;
+            line-height: 1.6;
+        }
+        .buttons .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: 0.3s;
+            margin: 0 10px;
+        }
+        .btn {
+            background-color: #fff;
+            color: #3498db;
+        }
+        .btn:hover {
+            background-color: #1a252f;
+            color: #fff;
+        }
+        .btn-outline {
+            background-color: transparent;
+            border: 2px solid #fff;
+            color: #fff;
+        }
+        .btn-outline:hover {
+            background-color: #fff;
+            color: #3498db;
+        }
+        footer {
+            background-color: #1a252f;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Danish Portfolio</div>
+            <ul>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="hero-container">
+        <section class="hero">
+            <h1>Selamat Datang ke Blog Peribadi Saya</h1>
+            <p>Hai! Saya <strong>Danish Danial</strong>, seorang pelajar dari UniSZA. Ini adalah ruang perkongsian digital saya mengenai teknologi, hobi, dan perjalanan akademik saya.</p>
+            <div class="buttons">
+                <a href="about.html" class="btn">Kenali Saya</a>
+                <a href="blog.html" class="btn btn-outline">Baca Blog</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Danish Danial. Hak Cipta Terpelihara | Tugasan CSD 34203</p>
+    </footer>
+
+</body>
+</html>
