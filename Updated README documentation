@@ -1,0 +1,16 @@
+# Personal Blog Portfolio - Danish Danial
+
+## 1. Projek Penerangan
+Projek ini merupakan sebuah Blog Portfolio Peribadi yang dibangunkan bagi memenuhi keperluan tugasan individu untuk kursus **CSD 34203**. Blog ini mengandungi maklumat diri, latar belakang akademik di UniSZA, perkongsian artikel, serta borang hubungi yang responsif.
+
+## 2. Ciri-ciri Utama Web
+- **Halaman Utama (Home):** Pengenalan ringkas dan pautan navigasi yang mesra pengguna.
+- **Mengenai Saya (About):** Latar belakang pendidikan dan kemahiran digital.
+- **Blog:** Ruang perkongsian artikel (Pengenalan Git & Kehidupan Kampus).
+- **Hubungi (Contact):** Borang interaktif untuk maklum balas.
+- **Reka Bentuk Responsif:** Antara muka yang kemas dan sesuai untuk paparan telefon pintar mahupun komputer.
+
+## 3. Teknologi yang Digunakan
+- HTML5 (Struktur Kandungan)
+- CSS3 (Gaya & Reka Bentuk Terbenam)
+- Git & GitHub (Pengurusan Repositori)
