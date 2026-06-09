@@ -1,16 +1,23 @@
-# Personal Blog Portfolio - Danish Danial
+# CSD 34203 Special Topics in Software Development
+## Individual Project: GitHub Portfolio (Personal Blog Page)
 
-## 1. Projek Penerangan
-Projek ini merupakan sebuah Blog Portfolio Peribadi yang dibangunkan bagi memenuhi keperluan tugasan individu untuk kursus **CSD 34203**. Blog ini mengandungi maklumat diri, latar belakang akademik di UniSZA, perkongsian artikel, serta borang hubungi yang responsif.
+### 1. Nama & Penerangan Projek
+Projek ini merupakan sebuah **Laman Web Blog Portfolio Peribadi** yang dibangunkan secara individu untuk memenuhi kriteria pemarkahan kursus CSD 34203 di Universiti Sultan Zainal Abidin (UniSZA). Projek ini berfungsi sebagai ruang digital untuk memperkenalkan diri, memaparkan latar belakang akademik, serta mendokumentasikan artikel perkongsian.
 
-## 2. Ciri-ciri Utama Web
-- **Halaman Utama (Home):** Pengenalan ringkas dan pautan navigasi yang mesra pengguna.
-- **Mengenai Saya (About):** Latar belakang pendidikan dan kemahiran digital.
-- **Blog:** Ruang perkongsian artikel (Pengenalan Git & Kehidupan Kampus).
-- **Hubungi (Contact):** Borang interaktif untuk maklum balas.
-- **Reka Bentuk Responsif:** Antara muka yang kemas dan sesuai untuk paparan telefon pintar mahupun komputer.
+### 2. Ciri-Ciri Utama (Features)
+- **Menu Navigasi Responsif:** Bar menu atas yang membolehkan pengguna menukar halaman dengan lancar (Home, About, Blog, Contact).
+- **Halaman Utama (Home Page):** Paparan bahagian 'Hero' yang interaktif dengan butang seruan tindakan (Call-to-Action).
+- **Mengenai Saya (About Page):** Memaparkan latar belakang pendidikan di UniSZA, matlamat akademik, serta senarai kemahiran yang dimiliki.
+- **Halaman Blog (Blog Page):** Mengandungi 2 artikel sampel awal mengenai pengalaman mempelajari Git/GitHub dan kehidupan kampus.
+- **Borang Hubungi (Contact Page):** Menyediakan borang input yang lengkap untuk membolehkan pengguna menghantar mesej maklum balas.
 
-## 3. Teknologi yang Digunakan
-- HTML5 (Struktur Kandungan)
-- CSS3 (Gaya & Reka Bentuk Terbenam)
-- Git & GitHub (Pengurusan Repositori)
+### 3. Teknologi yang Digunakan (Technologies Used)
+- **HTML5:** Digunakan untuk membina rangka kerja dan struktur utama bagi keempat-empat halaman web.
+- **CSS3:** Menggunakan teknik *Embedded Styling* (`<style>`) untuk hiasan tata-rajah (layout), warna tema profesional, tipografi, dan memastikan paparan mesra peranti mudah alih (responsive).
+- **Git & GitHub:** Digunakan untuk pengurusan repositori kod (version control) sepanjang proses pembangunan projek.
+
+### 4. Cara Menjalankan Projek (How to Run the Project)
+1. Muat turun (*Download*) projek ini sebagai fail ZIP dari repositori GitHub ini atau gunakan kaedah pengekstrakan folder.
+2. Buka folder projek pada komputer anda.
+3. Cari fail bernama `index.html`.
+4. *Double-click* (klik dua kali) fail `index.html` tersebut untuk membukanya secara terus menggunakan mana-mana pelayar web pilihan anda (seperti Google Chrome atau Microsoft Edge).
